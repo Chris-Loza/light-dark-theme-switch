@@ -1,0 +1,2 @@
+npm install use-local-storage
+    used to handle local storage
